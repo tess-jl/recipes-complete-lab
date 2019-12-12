@@ -112,7 +112,7 @@ describe('recipe routes', () => {
           _id: expect.any(String),
           name: 'cookies',
           ingredients: [
-            { _id: expect.any(String), name: 'flour', amount: 1, measurement: 'cup' }
+            { _id: expect.any(String), name: 'flour', amount: 1, measurement: 'cup', id: expect.any(String) }
           ],
           directions: [
             'preheat oven to 375',
@@ -121,6 +121,7 @@ describe('recipe routes', () => {
             'bake for 10 minutes'
           ],
           events: [],
+          id: expect.any(String),
           __v: 0
         });
       });
