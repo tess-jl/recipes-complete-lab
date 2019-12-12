@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1576188449202" clover="3.2.0">
-  <project timestamp="1576188449202" name="All files">
-    <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5" elements="18" coveredelements="16" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
-    <file name="Event.js" path="/Users/Tess/alchemy/career-track/week-02/recipes-complete-lab/lib/models/Event.js">
-      <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
-      <line num="1" count="3" type="stmt"/>
-      <line num="3" count="3" type="stmt"/>
-      <line num="22" count="3" type="stmt"/>
-      <line num="24" count="2" type="stmt"/>
-      <line num="27" count="1" type="stmt"/>
-      <line num="30" count="3" type="stmt"/>
-      <line num="32" count="2" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
-      <line num="38" count="3" type="stmt"/>
-      <line num="40" count="1" type="stmt"/>
-      <line num="43" count="0" type="stmt"/>
-      <line num="48" count="3" type="stmt"/>
-    </file>
+<coverage generated="1576188494373" clover="3.2.0">
+  <project timestamp="1576188494373" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
   </project>
 </coverage>
